@@ -27,5 +27,5 @@ This project was created as part of Achievement 3 in my Data Analytics program. 
 
 📎 Additional Resources
 
-    📊 [Tableau Report](https://public.tableau.com/app/profile/yourname/viz/RockbusterDashboard)
+    📊 [Tableau Report] (https://public.tableau.com/app/profile/cem.eygi/viz/Book1_17483521573950/TopCities?publish=yes)
 
